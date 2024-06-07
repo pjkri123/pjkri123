@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 -->
 
 
-I am Puja Kumari. I am currently a college student, pursuing BTech in Information Technology at B.P. Poddar Institute of Management and Technology, Kolkata.
+I am Puja Kumari. I am a recent graduate from BTech in Information Technology at B.P. Poddar Institute of Management and Technology, Kolkata.
 
-- I have basic knowledge about HTML, CSS and JavaScript.
-- I also know C, python(basic) and am currently learning java.
+- I have web technologies knowledge about HTML, CSS and JavaScript.
+- I have a good foundation in java programming language.
 - I am curious to learn something new.
+- I am looking for a good opportunity to start my career.
 - you can connect me on Linkedin https://www.linkedin.com/in/puja-kumari-0615611b4/
