@@ -26,8 +26,8 @@ I am a passionate and hardworking professional who has a strong interest in tech
 
 
 ### 💼 Professional Journey  
-🔧 My curiosity for building things from the ground up and my strong affinity for solving complex problems inspired me to pursue a career in software development.
-- 🌐 Enhanced my skills and built real-world development experience through impactful internships, where worked on full-stack projects, optimized system performance, and strengthened my command of backend technologies.
+🔧 My passion for building things from scratch and my deep interest in problem-solving inspired me to pursue a career in technology.
+- 🌐 I honed my skills, gained hands-on experience, and explored the dynamic world of web development through rewarding internships.
 - 💼 Previously worked as a **Assistant Software Engineer at Nucleus Software Exports Ltd.**, where I further strengthened my foundation in software development. 
 - 🚀 Currently working as a **Software Engineer at Capgemini**, actively contributing to impactful projects and growing as a backend and Java developer.
 
