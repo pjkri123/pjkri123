@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 🎯 Focused on Full-Stack Development, Backend Engineering, and Cloud Technologies.
 
-📫 Reach me at: pjkri33@gmail.com
-
 ⚡ Fun Fact: I believe "Clean code is the key to creative solutions!"
 
 ---
