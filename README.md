@@ -15,18 +15,22 @@ Here are some ideas to get you started:
 
 
 <!-- Banner -->
-<h1 align="center">🌟 Hi, I'm <span style="color:#00BFFF;">Puja Kumari</span> 👋</h1>
+<h1 align="center">Hi,👋 I'm <span style="color:#00BFFF;">Puja Kumari</span></h1>
 <p align="center">
   <img alt="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer;Backend+Developer;Java+Developer" />
 </p>
 
 
 ## 🚀 About Me  
-I am a passionate and hardworking professional who has a strong interest in technology. As a Software Developer with a focus on the Java (SpringBoot, Hibernate, JPA, RestAPI, SQL) stack, I enjoy writing clean, efficient, and maintainable code to turn creative ideas into real-world solutions.
+🌱 Software Developer at Capgemini, passionate about building scalable and efficient solutions.
 
+👨‍💻 Currently working with Java, Spring Boot, Hibernate, JPA, REST APIs, MySQL, Oracle SQL, and exploring ReactJS.
 
-### 💼 Professional Journey  
-🔧 Passionate about building things from scratch and solving complex problems, I gained hands-on experience through internships, worked as an ***Assistant Software Engineer at Nucleus Software Exports Ltd.***, and am currently contributing to impactful projects as a ***Software Engineer at Capgemini***, growing as a backend and Java developer.
+🎯 Focused on Full-Stack Development, Backend Engineering, and Cloud Technologies.
+
+📫 Reach me at: pjkri33@gmail.com
+
+⚡ Fun Fact: I believe "Clean code is the key to creative solutions!"
 
 ---
 
