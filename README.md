@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## 🚀 About Me  
-🌱 Software Developer at Capgemini, passionate about building scalable and efficient solutions.
+🌱 Software Engineer at Capgemini, passionate about building scalable and efficient solutions.
 
 👨‍💻 Currently working with Java, Spring Boot, Hibernate, JPA, REST APIs, MySQL, Oracle SQL, and exploring ReactJS.
 
